@@ -1,0 +1,9 @@
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb
+E:\Dot_Net_Work\04.05.2015(Day-09)\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Form1.resources
